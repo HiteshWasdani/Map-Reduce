@@ -14,7 +14,7 @@ Calculate word with there length from a given artical or page.
 Calculate occurace of each word in a artical or page. It can be used to analysize which word is more frequently used.
 
 # Note
-To use my src code must add libraried dependecies of just use jar file from project_name/out/artifacts/
+To use my src code must add librarie dependencies or just use jar file from project_name/out/artifacts/
 
 To Run code - java -jar jar_file input_file output_file
 
